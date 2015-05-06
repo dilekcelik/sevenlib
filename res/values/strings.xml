@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sevenlib</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+	<string name="isim1">Allah\n \nTesbih Niyeti:\nHer türlü istek, tüm duaların\nkabul olması.\n \nTesbih Adedi: 66</string>
+    <string name="isim2">Er-Rahmân\n \nTesbih Niyeti:\nDünyada ve ahirette Allah`ın\nsevgisini kazanmak.\n \nTesbih Adedi: 298</string>
+	<string name="isim3">Er-Rahîm\n \nTesbih Niyeti:\nMaddî ve manevî rızka\nnail olmak.\n \nTesbih Adedi: 258</string>
+	<string name="isim4">El-Melik\n \nTesbih Niyeti:\nMaddî ve manevî güçlü olmak,\ninsanlara sözlerini anlatıp\ndinletebilmek, emir sahibi olmak.\n \nTesbih Adedi: 90</string>
+	<string name="isim5">El-Kuddûs\n \nTesbih Niyeti:\nMaddî ve manevî her türlü\ntemizlik, kalp temizliği,\nruhî hastalıklardan iyileşmek.\n \nTesbih Adedi: 170</string>
+	<string name="isim6">Es-Selâm\n \nTesbih Niyeti:\nKorkulan her şeyden emin olmak\nve esenliğe çıkmak.\n \nTesbih Adedi: 131</string>
+	<string name="isim7">El-Mümin\n \nTesbih Niyeti:\nGüvende olma, güvenilir insan\nolmak, kötü hastalıklara düşmemek.\n \nTesbih Adedi: 137</string>
+	<string name="isim8">El-Muheymin\n \nTesbih Niyeti:\nİnsanlardan korunmak ve onların\ndüşüncelerine akıl erdirebilmek.\n \nTesbih Adedi: 145</string>
+	<string name="isim9">El-Aziz\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 94</string>
+	<string name="isim10">El-Cebbâr\n \nTesbih Niyeti:\nİstek ve arzuların olması,\ninsanların ve cinlerinn\şerrinden emin olmak. \n \nTesbih Adedi: 206</string>
+	<string name="isim11">El-Mütekebbir\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 662</string>
+	<string name="isim12">El-Hâlık\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 731</string>
+	<string name="isim13">El-Bâri\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 214</string>
+	<string name="isim14">El-Musavvir\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 336</string>
+	<string name="isim15">El-Gaffâr\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 1.281</string>
+	<string name="isim16">El-Vehhâb\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 14</string>
+	<string name="isim17">El-Fettâh\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 489</string>
+	<string name="isim18">El-Alim\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 150</string>
+	<string name="isim19">El-Kâbid\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 903</string>
+	<string name="isim20">El-Bâsit\n \nTesbih Niyeti:\nDüşmanlara galip gelmek. \n \nTesbih Adedi: 72</string>
+
+
+	
+    <string name="main">Merhaba,\n \nEsma`ul Husna uygulamasina\nhosgeldiniz.\n \nDevam etmek icin yukaridaki\nbutonu kullanarak bir isim\nseciniz.</string>
+    
+    
+</resources>
